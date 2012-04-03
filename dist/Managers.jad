@@ -1,0 +1,7 @@
+MIDlet-Jar-Size: 10016
+MIDlet-Jar-URL: Managers.jar
+MIDlet-Name: Managers
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
